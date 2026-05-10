@@ -399,8 +399,7 @@ while turn_count < turn_limit:
         break # Break from the outer turn loop
 
 
-    # Optional: Add a small delay between turns
-    # time.sleep(1)
+
 
 
 print("\n--- Game Over ---")
@@ -440,8 +439,6 @@ while turn_count < turn_limit:
         break # Break from the outer turn loop
 
 
-    # Optional: Add a small delay between turns
-    # time.sleep(1)
 
 
 
